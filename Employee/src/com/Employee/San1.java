@@ -8,9 +8,6 @@ System.out.println("hello hyderabad");
 
 System.out.println("hello ");
 
-
-System.out.println("hello world ");
-
 }
 
 
